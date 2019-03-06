@@ -1,0 +1,6 @@
+c:\users\asp\documents\visual studio 2013\Projects\XMLData\XMLData\bin\XMLData.dll.config
+c:\users\asp\documents\visual studio 2013\Projects\XMLData\XMLData\bin\XMLData.dll
+c:\users\asp\documents\visual studio 2013\Projects\XMLData\XMLData\bin\XMLData.pdb
+c:\users\asp\documents\visual studio 2013\Projects\XMLData\XMLData\obj\Debug\XMLData.csprojResolveAssemblyReference.cache
+c:\users\asp\documents\visual studio 2013\Projects\XMLData\XMLData\obj\Debug\XMLData.dll
+c:\users\asp\documents\visual studio 2013\Projects\XMLData\XMLData\obj\Debug\XMLData.pdb
